@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    color: #fff;
+    background: url(bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: bottom;
+}
+p{
+    margin: 30px;
+    font-family: 'Ramaraja', serif;
+}
+.div{
+    /* text-align: center; */
+    display: flex;
+    margin: 20px;
+    justify-content: space-between;
+}
+.img{
+    margin-right: 120px;
+    position: fixed;
+    right: 0px;
+}
+img{
+    width: 200px;
+    height: 100px;
+}
+h1{
+    font-family: 'Akaya Telivigala', cursive;
+}
